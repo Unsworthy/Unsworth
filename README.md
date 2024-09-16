@@ -9,9 +9,13 @@
 - 🌱 **"from zero to at least not zero"**
 - 🔥 I’m currently learning about web technology for web development and software engineer
 - 🍀 **"To Be Happy :)"**
+- Just a student who wants to grow.
 
 ###  🌐 Social Media
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/feeriuz/)
+
+### Support me :)
+(https://saweria.co/RijaLNath)
 ### 💻 Tech Stack:
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS 3" /></a>
@@ -33,5 +37,3 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237A11F7?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/react-%2358C4DC?style=for-the-badge&logo=react&logoColor=white)
-[![](https://visitcount.itsvg.in/api?id=naelyo&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<img src="https://www.codewars.com/users/NaelYo/badges/micro">
